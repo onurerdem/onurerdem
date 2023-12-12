@@ -3,6 +3,8 @@
 
 - 🌱  Şu anda **Flutter** öğreniyorum.
 
+- 💬  Bana **Kotlin** hakkında soru sorabilirisiniz.
+
 - 📝  Projelerimi yayınladığım [Google Play Store hesabım](https://play.google.com/store/apps/developer?id=Onur+Erdem).
 
 - 🚀  Kişisel sayfam: [https://www.linkedin.com/in/erdemonur](https://www.linkedin.com/in/erdemonur)
