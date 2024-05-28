@@ -1,5 +1,5 @@
 <h2 align="center">Merhaba! 👋 Ben Onur Erdem.</h2>
-<h3 align="center">Bilgisayar Mühendisi - Android Geliştiricisi, Küçükçekmece/İstanbul/Türkiye</h3>
+<h3 align="center">Bilgisayar Mühendisi - Android Geliştiricisi - Flutter Geliştiricisi, Küçükçekmece/İstanbul/Türkiye</h3>
 
 - 🌱  Şu anda **Flutter** öğreniyorum.
 
